@@ -1,3 +1,3 @@
 # Tomei
 
-Aplicativo para gerenciamento e alarme de medicamentos
+aplicativo para gerenciamento de medicamentos
